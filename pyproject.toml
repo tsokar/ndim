@@ -33,6 +33,5 @@ dependencies = [
 ]
 
 [project.urls]
-Code = "https://github.com/nschloe/ndim"
-Issues = "https://github.com/nschloe/ndim/issues"
-Funding = "https://github.com/sponsors/nschloe"
+Code = "https://github.com/tsokar/ndim"
+Issues = "https://github.com/tsokar/ndim/issues"
